@@ -1,0 +1,26 @@
+﻿  Animal.cpp
+  Antylope.cpp
+  Dandelion.cpp
+  dataSaver.cpp
+C:\Users\Michał\source\repos\OOP - project\OOP - project\dataSaver.cpp(23,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michał\source\repos\OOP - project\OOP - project\dataSaver.cpp(50,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Fox.cpp
+  Game.cpp
+  Grass.cpp
+  Guarana.cpp
+  Human.cpp
+  Logs.cpp
+C:\Users\Michał\source\repos\OOP - project\OOP - project\Logs.cpp(20,63): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michał\source\repos\OOP - project\OOP - project\Logs.cpp(21,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OOP - project.cpp
+C:\Users\Michał\source\repos\OOP - project\OOP - project\OOP - project.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Organism.cpp
+  Plant.cpp
+  SosnowskiBarszcz.cpp
+  Stats.cpp
+  Turtle.cpp
+  World.cpp
+C:\Users\Michał\source\repos\OOP - project\OOP - project\World.cpp(181,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Michał\source\repos\OOP - project\OOP - project\World.cpp(193,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  OOP - project.vcxproj -> C:\Users\Michał\source\repos\OOP - project\x64\Debug\OOP - project.exe
